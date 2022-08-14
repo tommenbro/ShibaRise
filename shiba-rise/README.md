@@ -1,3 +1,9 @@
+www.riseshiba.info
+https://shiba-rise.vercel.app
+
+
+0x50dc7b26d869033330f31d155131330f7541063b
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
